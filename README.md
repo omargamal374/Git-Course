@@ -1,2 +1,3 @@
 # Git-Course
-for El zero course
+for El zero web school course
+
